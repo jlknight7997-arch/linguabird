@@ -1,0 +1,8 @@
+
+{
+  "name": "LinguaBird",
+  "description": "Aprenda idiomas de forma divertida com o LinguaBird e inteligência artificial Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
